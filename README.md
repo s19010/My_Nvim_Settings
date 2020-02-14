@@ -1,2 +1,1 @@
-# my_nvim_settings
-# My_Nvim_Settings
+# Neovim の設定ファイル
